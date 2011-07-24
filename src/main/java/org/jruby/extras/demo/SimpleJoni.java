@@ -1,6 +1,5 @@
 package org.jruby.extras.demo;
 
-import org.jcodings.specific.USASCIIEncoding;
 import org.joni.Matcher;
 import org.joni.Regex;
 import org.joni.Region;
